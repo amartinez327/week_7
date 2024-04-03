@@ -1,0 +1,1 @@
+console.log("Welcome to my week 7 project...")
